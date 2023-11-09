@@ -52,11 +52,13 @@ Once the app is launched in a browser, you can upload JPG/JPEG images by either 
 	<img src='./misc/upload-images.png' alt='Upload Images', width='650'>
 </p>
 
-Once the images are uploaded, you will get results in a few minutes. Here's a sample result from three receipts:
+Once the images are uploaded, you will get the results in a few minutes. Here's a sample result for four images shown in the screenshot:
 
 <p align='center'>
 	<img src='./misc/sample-results.png' alt='Sample Results', width='650'>
 </p>
+
+Note that the image captions (more on that below) are also displayed under the **Image Captions** section.
 
 </details>
 
