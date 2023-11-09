@@ -33,8 +33,10 @@ This app makes a call to the OpenAI API. You will need to get the API key from [
 This app also uses `espnet/kan-bayashi_ljspeech_vits` model from [HuggingFace] to create captions for each image. You will need to store the Huggingface API key in the same file as shown below:
 
 <p align='center'>
-	<img src='./img/api-keys.png', alt='API Keys', width='650'>
+	<img src='./misc/api-keys.png', alt='API Keys', width='650'>
 </p>
+
+Please note that you can change this model to another image-to-text model from HuggingFace in `src/config.py` file.
 
 [OpenAI]:      https://openai.com
 [HuggingFace]: https://huggingface.co/espnet/kan-bayashi_ljspeech_vits
