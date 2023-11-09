@@ -83,5 +83,5 @@ Where `img_descr` contains all image captions separated by commas.
 
 The GPT-4 model parses through the image captions and suggests five title ideas for that group of images.
 
-Please note that the app uses **gpt-4-0613** from OpenAi. Please change it (to e.g., **gpt-3.5-turbo-0613** , if needed.
+Please note that the app uses **gpt-4-0613** from OpenAI. Please change it (to e.g., **gpt-3.5-turbo-0613**), if needed.
 </details>
