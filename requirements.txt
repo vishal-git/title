@@ -1,0 +1,6 @@
+openai==0.27.8
+langchain==0.0.264
+tensorflow==2.13.0
+transformers==4.31.0
+python-dotenv==1.0.0
+streamlit==1.25.0
